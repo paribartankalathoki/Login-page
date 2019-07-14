@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: darkblue;
+}
+
+.card {
+  border: 1px solid #a2e4c3;
+  padding: 29px;
+  position: absolute;
+  top: 24%;
+  left: 40%;
+  background: ivory;
+  border-radius: 3px;
+}
+.card-title {
+  color: #17a8fd;
+}
+.developer {
+  font-size: 7px;
+  color: #17a8fd;
+  font-family: sans-serif;
+}
